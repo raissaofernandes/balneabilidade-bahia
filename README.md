@@ -1,5 +1,7 @@
-# balneabilidade-bahia
+# Balneabilidade - INEMA - Bahia
 
-http://balneabilidade.inema.ba.gov.br/ 
+As condições das praias monitoradas são atualizadas e divulgadas semanalmente através dos Boletins de Balneabilidade, disponibilizado no do INEMA (http://balneabilidade.inema.ba.gov.br/).
 
-boletim 9/2013
+## Boletins
+9/2013
+
