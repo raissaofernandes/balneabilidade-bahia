@@ -1,3 +1,5 @@
 # balneabilidade-bahia
 
- 1. boletim 9/2013
+http://balneabilidade.inema.ba.gov.br/ 
+
+'balneabilidade-bahia.csv' boletim 9/2013
